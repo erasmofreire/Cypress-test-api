@@ -1,2 +1,2 @@
 # Cypress-test-api
-Teste de api com o framework Cypress
+Teste de API com o framework Cypress
